@@ -1,6 +1,6 @@
 {
   "short_name": "DRT",
-  "name": "Django-React-Typescript",
+  "name": "Django-React-Boilerplate",
   "icons": [
     {
       "src": "/static/frontend/logo-512.png",

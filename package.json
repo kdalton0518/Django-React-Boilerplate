@@ -1,5 +1,5 @@
 {
-  "name": "django-react-typescript",
+  "name": "django-react-boilerplate",
   "version": "1.0.1",
   "private": true,
   "description": "This is an non-opinionated Django + React boilerplate built with great development experience and easy deployment in mind.",
@@ -22,14 +22,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marcelovicentegc/django-react-typescript.git"
+    "url": "git+https://github.com/kdalton0518/Django-React-Boilerplate.git"
   },
-  "author": "Marcelo Cardoso",
+  "author": "kdalton0518",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/marcelovicentegc/django-react-typescript/issues"
+    "url": "https://github.com/kdalton0518/Django-React-Boilerplate/issues"
   },
-  "homepage": "https://github.com/marcelovicentegc/django-react-typescript#readme",
+  "homepage": "https://github.com/kdalton0518/Django-React-Boilerplate#readme",
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",

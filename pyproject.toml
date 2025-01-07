@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "django-react-typescript"
+name = "django-react-boilerplate"
 description = "This is an non-opinionated Django + React boilerplate built with great development experience and easy deployment in mind."
-authors = ["marcelovicentegc <marcelovicentegc@gmail.com>"]
+authors = ["kdalton0518 <kdalton0518@gmail.com>"]
 license = "MIT"
 readme = "README.md"
 package-mode = false

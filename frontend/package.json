@@ -1,10 +1,10 @@
 {
-  "name": "django-react-typescript-frontend",
+  "name": "django-react-boilerplate-frontend",
   "version": "0.1.0",
   "private": true,
   "main": "index.js",
-  "repository": "https://github.com/marcelovicentegc/django-react-typescript.git",
-  "author": "Marcelo Cardoso <dev@marcelo.page>",
+  "repository": "https://github.com/kdalton0518/Django-React-Boilerplate.git",
+  "author": "kdalton0518",
   "license": "MIT",
   "husky": {
     "hooks": {
