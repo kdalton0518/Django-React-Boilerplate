@@ -1,3 +1,32 @@
+# 1.0.0 (2025-01-07)
+
+
+### Bug Fixes
+
+* **api:** bio response ([d90069e](https://github.com/kdalton0518/Django-React-Boilerplate/commit/d90069e608f14ce9ee327db9d1236e7e8068d6f5))
+* **cicd:** fix backend test cmd ([73d44f7](https://github.com/kdalton0518/Django-React-Boilerplate/commit/73d44f782027e3e60c265c80eb5e3bbc23eb0d45))
+* **cicd:** reference to unexisting step ([d10dce4](https://github.com/kdalton0518/Django-React-Boilerplate/commit/d10dce4b0c2850c8422b995d1ad8172a6c862185))
+* export subscriber and publication models ([7769343](https://github.com/kdalton0518/Django-React-Boilerplate/commit/7769343d426cc20e8506074a6c5e84635599ae43))
+* remove unused api view ([2a9b3f0](https://github.com/kdalton0518/Django-React-Boilerplate/commit/2a9b3f0b4629bf3e8cd95471827ed5b9d3ec8a34))
+
+
+### Features
+
+* add backend app ([1989f90](https://github.com/kdalton0518/Django-React-Boilerplate/commit/1989f904ef43595c390cfdc2731135447829a272))
+* add guidelines to landing page ([76270dd](https://github.com/kdalton0518/Django-React-Boilerplate/commit/76270dd9837901e149bfb92852268af8af418436))
+* add publications model ([dd537ae](https://github.com/kdalton0518/Django-React-Boilerplate/commit/dd537ae5be5778192aabf3f8e48504f262c6ddfc))
+* add sentry ([e1d1b45](https://github.com/kdalton0518/Django-React-Boilerplate/commit/e1d1b45692f6382e6229a0fcb79e9819c3c8a147))
+* create proxy to serve lazy loaded assets ([6ace535](https://github.com/kdalton0518/Django-React-Boilerplate/commit/6ace5358ae37c52e48da92b5152584c69af7bc48))
+* default superuser migration ([2466713](https://github.com/kdalton0518/Django-React-Boilerplate/commit/24667134119c71eb9e40355c7181189165e07903))
+* frontend and rest framework apps ([ff902ac](https://github.com/kdalton0518/Django-React-Boilerplate/commit/ff902accf2565f209b4c29768256970284283766))
+* **frontend:** add publication page ([6febd63](https://github.com/kdalton0518/Django-React-Boilerplate/commit/6febd6313881e086c2e7889ada01a183bb585196))
+* include rtc ([433608b](https://github.com/kdalton0518/Django-React-Boilerplate/commit/433608bca6181306d649344f1679debac96a96db))
+* rest framework ([2536861](https://github.com/kdalton0518/Django-React-Boilerplate/commit/253686185248854f52d8d05b0c7d3be4d850decf))
+* routing ([e1f13e6](https://github.com/kdalton0518/Django-React-Boilerplate/commit/e1f13e6d52c291665028f4509ef6b8d57cb45db8))
+* setup tailwind ([0fc9d3c](https://github.com/kdalton0518/Django-React-Boilerplate/commit/0fc9d3cc5a3fab69a17f5b5f67de31c10a86e6bf))
+* subscribers and biography models ([81119ed](https://github.com/kdalton0518/Django-React-Boilerplate/commit/81119ed3e2c23b096ae54e4164279f0c7a36629e))
+* use unfold admin template ([b9a87db](https://github.com/kdalton0518/Django-React-Boilerplate/commit/b9a87dbd23c7574aa55dba683ae6a93d94bf57aa))
+
 ## [1.0.1](https://github.com/kdalton0518/Django-React-Boilerplate/compare/v1.0.0...v1.0.1) (2024-07-14)
 
 
